@@ -9,8 +9,8 @@ img {
   text-align: center;
   margin-top: 40px;
 }
-.header {
- margin-left: 0;
+.header-logo {
+ margin-left: 30%;
 }
 h1{
   text-align: center;
@@ -18,7 +18,7 @@ h1{
 }
 .landing-center{
   margin-top: 40px;
- margin-left: 40%;
+ margin-left: 30%;
 
 }
 .want{
@@ -28,18 +28,6 @@ h1{
 .menu{
   float: right;
   top: 0px;
-}
-
-
-
-.landing {
-  position: relative;
-  background: url('/src/Image/MYtineraryLogo.png') no-repeat;
-  background-size: cover;
-  background-position: center;
-  height: 100vh;
-  margin-top: -24px;
-  margin-bottom: -50px;
 }
 
 .landing-inner {
